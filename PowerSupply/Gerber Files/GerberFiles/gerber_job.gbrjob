@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2021-10-08T21:57:29Z",
+        "CreationDate": "2021-11-02T21:10:29Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,12 +13,12 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "Sketch"
+            "ProjectId": "Fuente lineal"
         },
         "Owner": "Gustavo Adolfo Murillo Gutierrez <ga.murillogutierrez@ugto.mx>",
         "Size": {
-            "X": 91,
-            "Y": 79
+            "X": 100,
+            "Y": 80
         }
     }
 }
