@@ -1,4 +1,4 @@
-Partlist exported from C:/Users/Gusta/Documents/EAGLE/projects/Fuente de Alimentacion Lineal/Sketch.sch at 10/8/2021 4:57 PM
+Partlist exported from C:/Users/Gusta/OneDrive - Universidad de Guanajuato/10° Inscripción/UDA/Aplicación de sistemas mecatronicos/Proyectos/Proyecto I.- Fuente de alimentación/PCB/Eagle/Fuente lineal.sch at 11/2/2021 3:10 PM
 
 Qty Value          Device          Package                           Parts           Description                                                    MANUFACTURER      MAXIMUM_PACKAGE_HEIGHT MF                   MPN     OC_FARNELL OC_NEWARK PARTREV POPULARITY SNAPEDA_PACKAGE_ID SPICEPREFIX STANDARD 
 2                  3RP/1610N       3RP/1610N                         POT_1, POT_2    16mm Potentiometer one level                                                                                                                                      8                                                  
